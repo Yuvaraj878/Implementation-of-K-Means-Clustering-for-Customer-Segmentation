@@ -62,7 +62,7 @@ plt.title("Customer Segments")
 ### Data info:
 ![](./1.png)
 ### Data Null :
-![](./NUL.png)
+![](./null.png)
 ### Elbow Method:
 ![](./2%202.png)
 ![](./2.png)
